@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Capture_Photo.MainPage" BackgroundImageSource="SampleImage.jpg">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Click Photo" Clicked="Button_Clicked"/>
+            <Image  x:Name="imgPhoto" HeightRequest="300" WidthRequest="300"/>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

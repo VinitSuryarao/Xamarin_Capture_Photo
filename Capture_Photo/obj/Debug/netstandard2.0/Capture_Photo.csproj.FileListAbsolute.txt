@@ -1,0 +1,14 @@
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\bin\Debug\netstandard2.0\Capture_Photo.deps.json
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\bin\Debug\netstandard2.0\Capture_Photo.dll
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\bin\Debug\netstandard2.0\ref\Capture_Photo.dll
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\bin\Debug\netstandard2.0\Capture_Photo.pdb
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\obj\Debug\netstandard2.0\Capture_Photo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\obj\Debug\netstandard2.0\Capture_Photo.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\obj\Debug\netstandard2.0\Capture_Photo.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\obj\Debug\netstandard2.0\Capture_Photo.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\obj\Debug\netstandard2.0\Capture_Photo.dll
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\obj\Debug\netstandard2.0\ref\Capture_Photo.dll
+E:\Study\Code\Xamarin\Capture_Photo\Capture_Photo\obj\Debug\netstandard2.0\Capture_Photo.pdb
